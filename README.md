@@ -8,6 +8,10 @@
 - From 7etsuo
   - https://github.com/7etsuo/CS107-Programming-Paradigms
   - https://m.youtube.com/playlist?list=PLWkTsO24LpD-YhslKDYnwHAP7OvTXBb-i
+- From Mariano
+  - https://github.com/marianoesteban/cs107 solutions
+- From ccm
+  - https://github.com/ccm18454090438/CS107Notes
 
 # ToDo
 
