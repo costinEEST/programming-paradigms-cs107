@@ -1,3 +1,9 @@
+# Assets from https://see.stanford.edu/materials/icsppcs107/ProgrammingParadigmsAllMaterials.zip
+ProgrammingParadigms
+
+# IDE
+.vscode
+
 # Prerequisites
 *.d
 
